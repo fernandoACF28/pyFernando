@@ -1,4 +1,4 @@
-## pyAERO
+## pyFernando
 
 pyFernando are useful package for scattering plots.
 
@@ -14,3 +14,7 @@ For install the package:
 uv pip install git+https://github.com/fernandoACF28/pyFernando.git
 ```
 
+
+``` bash 
+uv pip install --upgrade --force-reinstall git+https://github.com/fernandoACF28/pyFernando.git
+``` 
